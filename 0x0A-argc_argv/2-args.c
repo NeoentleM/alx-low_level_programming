@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - points all arguments it recieves 
- * @argc - number of arguments passed to the functio 
- * @argv - argument vector of pointers to strings
+ * main - points all arguments it recieves
+ * @argc: number of arguments passed to the function
+ * @argv: argument vector of pointers to strings
  *
  * Return: always 0
  */

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - programme that prints its name followed by new line 
+ * main - programme that prints its name followed by new line
  * @argc: argument that contains argument input
  * @argv: argumnt that stores the strings in an array of char* (strings)
  *
@@ -11,7 +11,7 @@
 int main(int argc, char *argv[])
 {
 	int num_1, num_2, mul;
-	
+
 	if (argc != 3)
 		printf("Error\n");
 	else
